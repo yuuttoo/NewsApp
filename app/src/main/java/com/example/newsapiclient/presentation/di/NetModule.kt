@@ -1,5 +1,6 @@
 package com.example.newsapiclient.presentation.di
 
+import android.util.Log
 import com.example.newsapiclient.BuildConfig
 import com.example.newsapiclient.data.api.NewsAPIService
 import dagger.Module
